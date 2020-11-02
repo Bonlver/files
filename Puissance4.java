@@ -1,2 +1,3 @@
-Ludo t moche
-t pas mieux William
+class Puissance4{
+  
+}
